@@ -24,6 +24,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dielldev&show_icons=true&locale=en" alt="dielldev" /></p>
+
+
 
 
