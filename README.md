@@ -8,9 +8,6 @@
 - 📫 How to reach me **diellgovori9@gmail.com**
 
 [![](https://visitcount.itsvg.in/api?id=Dielldev&icon=0&color=0)](https://visitcount.itsvg.in)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 # 💻 Languages:
