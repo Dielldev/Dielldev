@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **diellgovori9@gmail.com**
 
+[![](https://visitcount.itsvg.in/api?id=Dielldev&icon=0&color=0)](https://visitcount.itsvg.in)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -17,10 +18,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dielldev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dielldev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dielldev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dielldev&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
