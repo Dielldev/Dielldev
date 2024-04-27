@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm My Name is Diell Govori</h1>
+<h1 align="center">Hi 👋, My Name is Diell Govori</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dielldev&label=Profile%20views&color=0e75b6&style=flat" alt="dielldev" /> </p>
