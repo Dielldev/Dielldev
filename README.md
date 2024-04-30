@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, My Name is Diell Govori</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-
+[![](https://visitcount.itsvg.in/api?id=Dielldev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **diellgovori9@gmail.com**
 
-[![](https://visitcount.itsvg.in/api?id=Dielldev&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 # 💻 Languages:
