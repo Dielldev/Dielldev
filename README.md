@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **diellgovori9@gmail.com**
 
-- 🖇️ LinkedIn **https://www.linkedin.com/in/diell-govori-3a32b528b/**
+- 🖇️ Linked In **https://www.linkedin.com/in/diell-govori-3a32b528b/**
 
 
 
